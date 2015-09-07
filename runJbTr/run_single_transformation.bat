@@ -1,0 +1,1 @@
+C:\pdi-ce-5.4.0.1-130\data-integration\pan.bat /level:Basic /file:C:\kettle_repos\kettle_repo-IIEMIB\runJbTr\Transformation_1.ktr >> C:\kettle_repos\kettle_repo-IIEMIB\runJbTr\run_single_transformation.log

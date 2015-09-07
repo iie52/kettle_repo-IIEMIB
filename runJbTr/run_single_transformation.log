@@ -1,0 +1,20 @@
+DEBUG: Using PENTAHO_JAVA_HOME
+DEBUG: _PENTAHO_JAVA_HOME=C:\Program Files (x86)\Java\jre1.8.0_51
+DEBUG: _PENTAHO_JAVA=C:\Program Files (x86)\Java\jre1.8.0_51\bin\java.exe
+
+C:\pdi-ce-5.4.0.1-130\data-integration>"C:\Program Files (x86)\Java\jre1.8.0_51\bin\java.exe"   "-Djava.library.path=libswt\win32" "-DKETTLE_HOME=" "-DKETTLE_REPOSITORY=" "-DKETTLE_USER=" "-DKETTLE_PASSWORD=" "-DKETTLE_PLUGIN_PACKAGES=" "-DKETTLE_LOG_SIZE_LIMIT=" "-DKETTLE_JNDI_ROOT=" -jar launcher\pentaho-application-launcher-5.4.0.1-130.jar -lib ..\libswt\win32  -main org.pentaho.di.pan.Pan /level:Basic /file:C:\kettle_repos\kettle_repo-IIEMIB\runJbTr\Transformation_1.ktr 
+2015/09/07 14:43:16 - Pan - Logging is at level : Basic logging
+2015/09/07 14:43:16 - Pan - Start of run.
+2015/09/07 14:43:16 - Transformation_1 - Dispatching started for transformation [Transformation_1]
+2015/09/07 14:43:18 - Get System Info.0 - Finished processing (I=0, O=0, R=1, W=1, U=0, E=0)
+2015/09/07 14:43:18 - Generate Rows.0 - Finished processing (I=0, O=0, R=0, W=1, U=0, E=0)
+2015/09/07 14:43:19 - Join Rows (cartesian product).0 - Finished processing (I=0, O=0, R=2, W=1, U=0, E=0)
+2015/09/07 14:43:19 - Text file output.0 - Finished processing (I=0, O=1, R=1, W=1, U=0, E=0)
+2015/09/07 14:43:19 - Pan - Finished!
+2015/09/07 14:43:19 - Pan - Start=2015/09/07 14:43:16.002, Stop=2015/09/07 14:43:19.134
+2015/09/07 14:43:19 - Pan - Processing ended after 3 seconds.
+2015/09/07 14:43:19 - Transformation_1 -  
+2015/09/07 14:43:19 - Transformation_1 - Step Get System Info.0 ended successfully, processed 1 lines. ( 0 lines/s)
+2015/09/07 14:43:19 - Transformation_1 - Step Join Rows (cartesian product).0 ended successfully, processed 2 lines. ( 0 lines/s)
+2015/09/07 14:43:19 - Transformation_1 - Step Generate Rows.0 ended successfully, processed 1 lines. ( 0 lines/s)
+2015/09/07 14:43:19 - Transformation_1 - Step Text file output.0 ended successfully, processed 1 lines. ( 0 lines/s)
