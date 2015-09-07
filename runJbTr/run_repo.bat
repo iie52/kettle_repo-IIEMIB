@@ -1,0 +1,1 @@
+C:\pdi-ce-5.4.0.1-130\data-integration\kitchen.bat /level:Basic /rep:iiemib /job:/runJbTr/Job_1 >> C:\kettle_repos\kettle_repo-IIEMIB\runJbTr\run_repo_bat.log
